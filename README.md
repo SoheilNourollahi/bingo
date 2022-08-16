@@ -1,2 +1,4 @@
 # bingo
 homework
+
+normal bingo
